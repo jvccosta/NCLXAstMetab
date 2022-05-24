@@ -3,9 +3,9 @@
 #### Counts number of spontaneous alternations on Y-maze, i.e., number of
 #### non-repeated arm-entries' triplets, considering overlap ####
 
-### This script is made to analyze a matrix of "k" columns and "i" rows ###
+### Script was made to analyze a matrix of "k" columns and "i" rows ###
 
-## By RoS_AndrÈ Costa Oliveira & Jo„o Victor Cabral-Costa ##
+## By RoS_Andr√© Costa Oliveira & Jo√£o Victor Cabral-Costa ##
 
 #**************************************************************************#
 
